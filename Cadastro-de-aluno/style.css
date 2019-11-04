@@ -1,0 +1,39 @@
+body{
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d1d1d1;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 30%;
+    height: 70%;
+    padding-bottom: 20px;
+    border-radius: 30px;
+}
+input{
+    margin-bottom: 10px;
+    border-radius: 10px;
+    width: 200px;
+    height: 30px;
+}
+button{
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin: 5px;
+    background-color: white;
+    font-size: 12pt;
+    font-family: 'ZCOOL XiaoWei', serif;
+    cursor: pointer;
+}
+h2{
+    font-size: 20pt;
+    color: white;
+    font-family: 'ZCOOL XiaoWei', serif;
+}
