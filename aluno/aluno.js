@@ -11,4 +11,4 @@ function controlarMenu(){
     tracos[2].classList.toggle("virarX2");
 }
 
-hamburguer.onclick = controlarMenu;
+hamburguer.onclick = controlarMenu;    
