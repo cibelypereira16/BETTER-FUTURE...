@@ -2,7 +2,6 @@ let hamburguer = document.querySelector("#hamburguer");
 let menu = document.querySelector("section");
 let tracos = document.querySelectorAll("span");
 
-
 function controlarMenu(){
     menu.style.display = "flex";
     menu.classList.toggle("aparecerMenu");
@@ -11,4 +10,4 @@ function controlarMenu(){
     tracos[2].classList.toggle("virarX2");
 }
 
-hamburguer.onclick = controlarMenu;    
+hamburguer.onclick = controlarMenu;
