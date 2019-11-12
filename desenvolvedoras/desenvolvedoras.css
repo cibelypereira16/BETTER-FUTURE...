@@ -62,13 +62,13 @@ section a{
 }
 
 .virarX1{
-    transform: rotateZ(-50deg);
+    transform: rotateZ(-58deg);
     transform-origin: right center;
     background-color:#ED8074;
 }
 
 .virarX2{
-    transform: rotateZ(50deg);
+    transform: rotateZ(58deg);
     transform-origin: right center;
     position: relative;
     top: 8px;
