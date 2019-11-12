@@ -1,3 +1,3 @@
 <?php
-  include_once("home/index.htmlgi");
+  include_once("index.html");
 ?>
